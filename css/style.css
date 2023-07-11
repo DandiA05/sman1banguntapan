@@ -1052,7 +1052,7 @@ ol {
 
 .footer__address ul li {
   list-style: none;
-  padding-left: 70px;
+  padding-left: 0px;
   position: relative;
   margin-bottom: 30px;
 }
