@@ -2291,6 +2291,7 @@ ol {
 }
 
 .blog__details__desc {
+  text-align: justify;
   margin-bottom: 54px;
 }
 
@@ -2300,6 +2301,34 @@ ol {
 
 .blog__details__desc p:last-child {
   margin-bottom: 0;
+}
+
+.blog__details__desc ul {
+  font-size: 18px;
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 20px;
+}
+
+.tours__text__desc ul {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  padding-left: 20px;
+  list-style-type: decimal;
+}
+
+.tours__text__desc ul li {
+  font-size: 15px;
+  margin-bottom: 1em;
+  padding-left: 12px;
+}
+
+.blog__details__desc ul li {
+  margin-top: 0.75em;
+  font-size: 15px;
 }
 
 .blog__details__quote {
